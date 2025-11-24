@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Shubham Mohapatra!
 
-🎓 CSE Student @ KIIT | 👨‍💻 Java Enthusiast | ReactNative Dev | 🤖 AI/ML Explorer
+🎓 CSE Student @ KIIT | 👨‍💻 Java Enthusiast | ReactNative Dev |  AI/ML Explorer
 
 ---
 
@@ -8,8 +8,6 @@
 - 🚀 Currently building cool React Native apps that (mostly) don't crash
 - 🧠 Learning AI/ML because I want my apps to be smarter than me
 - 🔧 Doing DSA daily in Java like it’s a gym routine for my brain
-- 🌐 Exploring backend with Java Spring Boot (yes, I finally met the server-side!)
-- 🔌 Always trying to learn and explore new things !!
 
 ---
 
